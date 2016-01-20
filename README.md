@@ -19,3 +19,4 @@ I also added ldap support.
 
 TODO
 * Clean up documentation with a better howto.
+* Figure out how to get the install tag to work :) The docker file on git. I'm still learning docker hub.

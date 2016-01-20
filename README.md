@@ -14,3 +14,7 @@ Go through the install. Once finished stop and rm the container. now create a ne
 
 Why fork?
 It could be my lack of understanding how Vimagick wanted his image to be used, but it apappears that you have to remove the install dir from the container after installing,which would require you to go through the setup again everytime you recreated your continer. I wanted to be able to be able to recreate the container and not have to go through a setup again.
+
+
+TODO
+* Clean up documentation with a better howto.
